@@ -1,0 +1,20 @@
+.signinbox{
+    width: 550px;
+    height: 100px;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+  }
+.signupbox{
+    background-color: #D9D9D9;
+    height: 100px;
+    width: 550px;
+    list-style-type: none;
+    border-radius: 10px;
+  }
+  @media only screen and (max-width: 900px) {
+    .signinbox,
+    .signupbox{
+      width: 100%;
+      text-align: center;
+    }
+}

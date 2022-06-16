@@ -1,0 +1,173 @@
+.nav-search{
+    width: 350px;
+}
+.product-list {
+    margin: auto;
+    display: inline-table;
+    margin-top: 10px;
+    padding-right: 20px;
+    width: 200px;
+}
+.product-img img {
+  width: 320px;
+  height: 100%;
+  padding: 10px;
+  border: solid lightgray medium;
+  display: block;
+}
+
+
+.divImage {
+  display: inline-table;
+}
+
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.addToCompare{
+    font-size: 30px;
+}
+
+a{background-color:transparent}
+a:active,a:hover{outline:0; text-decoration:none;}
+
+.comparePanel{
+    position: fixed;
+    bottom: 10px;
+    width: 90%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: none;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.titleMargin{
+    padding: 4px 0px 4px 4px;
+}
+.titleMargin1{
+    padding: 0px 0px 0px 4px;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.modPos{
+    padding-top: 25px !important;
+}
+
+.contentPop{
+    width: 80%;
+    margin-left: 10%;
+    height: 80%;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+
+.product {
+    list-style-type: none;
+    border: 1px solid #B5B4B7;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+
+.product:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.product .header {
+    background-color: #111;
+    color: white;
+    font-size: 25px;
+}
+
+.product li {
+    border-bottom: 1px solid #B5B4B7;
+    padding: 10px;
+    text-align: center;
+}
+
+.product .grey {
+    background-color: #eee;
+    font-size: 20px;
+}
+
+.compHeader{
+    min-height: 200px ;
+}
+
+.compareThumb{
+    height: 150px;
+    max-width: 150px;
+}
+
+@media only screen and (max-width:576px)
+{
+    .comparePanle h4{
+        font-size: 15px;
+    }
+    .compareThumb{
+        height: 100px;       
+    }
+    .compHeader{
+    min-height: 150px;
+}
+}
+
+.relPos{
+    position: relative;
+}
+
+.description{
+    min-height: 400px ;
+}
+
+.rotateBtn{
+    -webkit-transform : rotate(45deg); 
+    -moz-transform : rotate(45deg); 
+    -ms-transform : rotate(45deg); 
+    -o-transform : rotate(45deg); 
+    transform : rotate(45deg); 
+}
+
+.selected{
+    border-style:solid !important;
+    border-color: #1c1c1c !important;
+    border-width:medium !important; 
+}
+
+.closeBtn{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    background-color: #d8d8d8;
+    border-radius: 100%;
+    top: 40px;
+    right: 20px;
+    z-index: 2;
+    text-align: center;
+    line-height: 28px;
+}
+
+
+@media only screen and (max-width: 900px) 
+{
+    .product-img img {
+      width: 160px;
+    }
+    .product-list{
+        width: 180px;
+    }
+    .nav-search{
+        margin-bottom: 15px;
+    }
+}
+
+/*end compare*/

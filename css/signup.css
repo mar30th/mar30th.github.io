@@ -1,0 +1,25 @@
+.signinbox{
+    width: 550px;
+    height: 100px;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+  }
+.signupbox{
+    background-color: #D9D9D9;
+    height: 100px;
+    list-style-type: none;
+    border-radius: 10px;
+  }
+.form-bg{
+  margin-top: 30px;
+  border-radius: 10px;
+  background-image: url("/images/signupbd.jpg");
+}
+@media only screen and (max-width: 900px) {
+  .form-bg button{
+    font-size: 15px;
+  }
+  .signupbox{
+    text-align: center;
+  }
+}

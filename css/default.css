@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  height: 100%;
+  padding-top: 150px;
+}
+/* CSS Header - Nav */
+.navbar {
+  width: 100%;
+  background-color: #000;
+  /* position: fixed; */
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 2px 10px #000;
+  height: 100px;
+  z-index: 3;
+}
+.navbar ul {
+  align-items: center;
+}
+
+.navbar a {
+  color: #fff;
+  transition: all 0.3s ease-in-out;
+}
+.navbar.active {
+  background-color: #fff;
+  box-shadow: 0 2px 10px #000;
+
+}
+.navbar.active img,
+.navbar.active span {
+  filter: invert(100);
+}
+
+.navbar.active a {
+  color: #000;
+}
+.navbar ul{
+  font-size: 22px;
+
+}
+.navbar a:hover {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+
+.navbar-collapse.show{
+  background-color: #D9D9D9;
+  border: solid;
+  text-align: left;
+}
+
+.checkout,
+.user{
+  color: #000;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  line-height: 50px;
+  background-color: white;
+}
+
+.navbar-btn{
+  background-color: white;
+}
+.btn-group button{
+  font-size: 30px;
+}
+.icon-bar{
+  background-color: white;
+}
+/* css Cart */
+.cart-icon{
+  position: relative;
+}
+
+.cart-badge{
+  position: absolute;
+  background-color: orangered;
+  font-size: 12px;
+}
+
+.navbar-toggler{
+  background-color: #fff;
+  height: 50px;
+  width: 50px;
+}
+
+
+
+
+/* End CSS For Header - Nav */
+
+
+/* Css body */
+.hero {
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  height: 80vh;
+}
+
+.hero:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+
+
+.panel {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 75vh;
+  border-radius: 35px;
+  color: #fff;
+  cursor: pointer;
+  flex: 0.5;
+  margin: 10px;
+  position: relative;
+  -webkit-transition: all 700ms ease-in;
+}
+
+.panel h3 {
+  font-size: 50px;
+  position: absolute;
+  bottom: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+.panel.active {
+  flex: 5;
+}
+
+.panel.active h3 {
+  opacity: 0.8;
+  transition: opacity 0.3s ease-in 0.4s;
+  border-radius: 50px;
+  text-align: center;
+  width: 100%;
+  height: fit-content;
+  color: white;
+  background-color: black;
+}
+
+footer{
+  display: block;
+  background: #000;
+  color: #8a8a8a;
+  padding: 10px 0 10px;
+  margin-top: 10px;
+}
+footer p{
+  color: #8a8a8a;
+}
+footer h3{
+  color: #fff;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.socialLogo{
+  text-align: center;
+  width: 230px;
+  height: 90px;
+  background-color: #fff;
+  line-height: 85px;
+  border-radius: 50px;
+  margin: auto;
+}
+.socialLogo img{
+  width: 50px;
+  border-radius: 50px;
+}
+footer ul{
+  list-style-type: none;
+  padding-left: 0px;
+}
+footer hr{
+  border: none;
+  background: #b5b5b5;
+  height: 1px;
+  margin: 20px 0;
+}
+footer a{
+  text-decoration: none;
+  color: #8a8a8a;
+}
+.copyright{
+  text-align: center;
+}
+
+/*compare*/
+
+
+@media only screen and (max-width: 900px) {
+  header img {
+    width: 250px;
+  }
+  li{
+    font-size: 20px;
+  }
+  .hero {
+  height: 50vh;
+  }
+  .panel{
+    height: 50vh;
+    border-radius: 25px;
+  }
+  .panel h3{
+    font-size: 30px;
+  }
+}

@@ -1,0 +1,19 @@
+.maparea{
+  text-align: center;
+  border: solid 5px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+.infoarea1{
+  width: 550px;
+}
+.infoarea1 ul,
+.infoarea2 ul{
+  margin-top: 15px;
+  list-style-type: none;
+}
+.infoarea2{
+  width: 550px;
+  margin-left: 35px;
+  list-style-type: none;
+}

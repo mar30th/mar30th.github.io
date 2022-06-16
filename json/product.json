@@ -1,0 +1,404 @@
+[
+    
+    {
+        "id": "a01",
+        "img": "images/Adidas/4DFWD X PARLEY 220.webp", 
+        "name": "4DFWD X PARLEY",
+        "price": 220,
+        "brand": "adidas",
+        "color": "Black",
+        "description": "This shoe's upper is made with a high-performance yarn which contains at least 50% Parley Ocean Plastic —  reimagined plastic waste, intercepted on remote islands, beaches, coastal communities and shorelines, preventing it from polluting our ocean. The other 50% of the yarn is recycled polyester"
+    },
+
+    {
+        "id": "a02",
+        "img": "images/Adidas/ADIDAS 4D FWD X PARLEY SHOES 220.webp",
+        "name": "ADIDAS 4D FWD X PARLEY SHOES" ,
+        "price": 220,
+        "brand": "adidas",
+        "color": "White",
+        "description": "Every mile completed and every running goal accomplished starts with that first step. Lace into these adidas shoes and get going. The lattice midsole is precisely tuned to move your energy forward and make all your steps feel a little easier."
+    },
+
+    {
+        "id": "a03",
+        "img": "images/Adidas/NMD_R1 PRIMEBLUE SHOES 150.webp", 
+        "name": "NMD_R1 PRIMEBLUE SHOES",
+        "price": 150,
+        "brand": "adidas",
+        "color": "White",
+        "description": "This product is made with Primeblue, a high-performance recycled material made in part with Parley Ocean Plastic. 50% of the upper is textile, 75% of the textile is Primeblue yarn. No virgin polyester."
+    },
+
+    {
+        "id": "a04",
+        "img": "images/Adidas/NMD_R1 SHOES 150.webp", 
+        "name": "NMD_R1 SHOES",
+        "price": 150,
+        "brand": "adidas",
+        "color": "White",
+        "description": "Inspired by running silhouettes from the '80s archive, NMD was born in 2015 to merge sleek style with modern technologies and comfort. This pair of the iconic shoes brings easy energy to your everyday look. Energy-returning BOOST in the midsole provides comfort, and the signature NMD midsole plugs and heel pull ratchet up the futuristic look."
+    },
+
+    {
+        "id": "A05",
+        "img": "images/Adidas/NMD_R1 V2 SHOES 150.webp", 
+        "name": "NMD_R1 V2 SHOES",
+        "price": 150,
+        "brand": "adidas",
+        "color": "Black",
+        "description": "Made in part with recycled content generated from production waste, e.g., cutting scraps, and post-consumer household waste to avoid the larger environmental impact of producing virgin content."
+    },
+
+    {
+        "id": "A06",
+        "img": "images/Adidas/STAN SMITH BONEGA SHOES 110.webp", 
+        "name": "STAN SMITH BONEGA SHOES",
+        "price": 110,
+        "brand": "adidas",
+        "color": "White",
+        "description": "Made with a series of recycled materials, this upper features at least 50% recycled content. This product represents just one of our solutions to help end plastic waste."
+    },
+
+    {
+        "id": "A07",
+        "img": "images/Adidas/SWIFT RUN SHOES 90.webp",
+        "name": "SWIFT RUN SHOES",
+        "price": 90,
+        "brand": "adidas",
+        "color": "White",
+        "description": "The Swift takes elements from '80s running designs and adds a modern feel. These knit shoes have a sleek shape that's detailed with embroidered lines. Lightweight cushioning provides all-day comfort."
+    },
+
+    {
+        "id": "A08",
+        "img": "images/Adidas/ULTRABOOST 4.0 DNA SHOES 190.webp",
+        "name": "ULTRABOOST 4.0 DNA SHOES",
+        "price": 190,
+        "brand": "adidas",
+        "color": "Black",
+        "description": "A young legend. The adidas Ultraboost debuted in 2015, and it became a go-to far beyond the realm of running. These shoes have a soft knit upper that offers ventilation where you need it most. They ride on our original tooling, with a Boost midsole for comfort you need to feel to believe."
+    },
+
+    {
+        "id": "A09",
+        "img": "images/Adidas/ULTRABOOST WEB DNA SHOES 190.webp",
+        "name": "ULTRABOOST WEB DNA SHOES",
+        "price": 190,
+        "brand": "adidas",
+        "color": "Grey",
+        "description": "This product is made with Primeblue, a high-performance recycled material made in part with Parley Ocean Plastic. 50% of the upper is textile, 75% of the textile is Primeblue yarn. No virgin polyester."
+    },
+
+    {
+        "id": "A10",
+        "img": "images/Adidas/ZX 8000 PARLEY 160.webp",
+        "name": "ZX 8000 PARLEY",
+        "price": 130,
+        "brand": "adidas",
+        "color": "White",
+        "description": "This shoe's upper is made with a high-performance yarn which contains at least 50% Parley Ocean Plastic —  reimagined plastic waste, intercepted on remote islands, beaches, coastal communities and shorelines, preventing it from polluting our ocean. The other 50% of the yarn is recycled polyester."
+    },
+
+
+    {   "id": "P01",
+        "img": "images/Puma/FUSE Training Shoes - 90.webp", 
+        "name": "FUSE Training Shoes" , 
+        "price": 90, 
+        "brand": "puma",
+        "color": "Black",
+        "description": "When it comes to performance, FUSE tops the leaderboard. With a 4mm drop, a wide toe box gives you a stable stance while the internal midsole provides shock absorption. To kick it up a notch, durable PUMAGRIP provides all-purpose traction while a TPU heel clip offers a boost of support. It’s a shoe that doesn’t shy away from any workout. It shows off."
+      },
+  
+      { "id": "P02",
+        "img": "images/Puma/FUTURE Z 3.3 IT Men Soccer Cleats - 90.webp", 
+        "name": "FUTURE Z 3.3 IT Men Soccer Cleats" , 
+        "price": 90,
+        "brand": "puma",
+        "color": "Neon Citrus",
+        "description": "More adaptive and comfortable than ever, this is a progressive indoor cleat built for players who shape the game with their vision and skill. The second generation FUZIONFIT+ technology provides unsurpassable support and flexibility for an optimal fit with or without laces, while strategically placed textured zones deliver exceptional touch and ball control. With a Dynamic Motion System outsole driving your energy down into the pitch for superior traction during explosive multi-directional movement, this is your game."
+  
+      },
+  
+      { "id": "P03",
+        "img": "images/Puma/H.ST.20 Men Training Shoes - 85.webp", 
+        "name": "H.ST.20 Men Training Shoes" , 
+        "price": 85,
+        "brand": "puma",
+        "color": "Black",
+        "description": "We reached into the archives for this one. Hitting the streets in the early 2000s as a low-profile silhouette with roots back to a minimalist distance spike, H.ST.20 is stepping straight to the future. Evolved with a dynamic rubber outsole, bold sidewall visuals, and LQDCELL stable cushioning, this run-inspired kick is back for another round of history."
+      },
+  
+      { "id": "P04",
+        "img": "images/Puma/RS-Connect FR Sneakers - 110.webp", 
+        "name": "RS-Connect FR Sneakers" ,
+        "price": 110,
+        "brand": "puma",
+        "color": "Black-Grenadine-Eggshell Blue-Yellow Pear",
+        "description": "Embrace the joy of connection with the latest addition to our Running System family, the RS-Connect. Our RS-Connect FR Sneakers are an exuberant celebration of art in all its forms, sporting decadently layered tooling, futuristic colourways, and a playful mix of textures and shapes for those who can't help but express themselves."
+  
+      },
+  
+      { "id": "P05",
+        "img": "images/Puma/RS-X T3CH Overload Sneakers - 110.webp",
+        "name": "RS-X T3CH Overload Sneakers" , 
+        "price": 110,
+        "brand": "puma",
+        "color": "White-Puma Black",
+        "description": "RS-X has become an iconic PUMA futro silhouette. With the dynamic midsole design anchoring the energetic colorways, RS-X continues to resonate in the 21st century consumer. T3CH is the third upper iteration in the RS-X line, following the original and X³.This iteration features original overload RS-X branding on the lateral webbing. We also adding a multi layered formstripe graphic on the midsole. Overstate in style with these."
+  
+      },
+  
+      { "id": "P06",
+        "img": "images/Puma/RS-Z LTH Men Sneakers - 110.webp", 
+        "name": "RS-Z LTH Men Sneakers" , 
+        "price": 110,
+        "brand": "puma",
+        "color": "Black",
+        "description": "Step into the shoe that launched a sportswear dynasty with the latest additions to our RS, or Running System, family. The futuristic Connect pack is inspired by the reinvention of connection and community in the digital age. Our RS-Z LTH is the peak of luxury, executed with a full leather upper for an exquisite look and durable feel, as well as leather overlays in the heel and quarter for reinforcement to ensure this shoe lasts the test of time."
+  
+      },
+  
+      { "id": "P07",
+        "img": "images/Puma/Scuderia Ferrari RS-Fast Motorsport Men Shoes - 120.webp", 
+        "name": "Scuderia Ferrari RS-Fast Motorsport Men Shoes" , 
+        "price": 120,
+        "brand": "puma",
+        "color": "Saffron",
+        "description": "The RS family of PUMA trainers has always been about speed and style. The Scuderia Ferrari brand has always been about speed and style, too. So, it makes sense to bring these two icons together with a sleeker, faster upper that features some amazing – and eye-catching – colour blocking."
+  
+      },
+  
+      { "id": "P08",
+        "img": "images/Puma/Slipstream Lo Reprise Sneakers - 90.webp", 
+        "name": "Slipstream Lo Reprise Sneakers" , 
+        "price": 90,
+        "brand": "puma"
+  
+      },
+  
+      { "id": "P09",
+        "img": "images/Puma/Speedcat LS Men Driving Shoes - 90.webp", 
+        "name": "Speedcat LS Men Driving Shoes" ,
+        "price": 90,
+        "brand": "puma",
+        "color": "White-Dark Slate",
+        "description": "Step ahead in the Slipstream Lo Reprise Sneakers from PUMA. Featuring progressive details such as a translucent outsole and moulded PUMA Formstrip and eyestay, these fresh sneakers are a modern update on a beloved heritage classic. The Slipstream Lo was released as a serious basketball shoe in 1987 and was reissued in the 2000s with crazy colorways. Today, these shoes are being reimagined for sneaker lovers like you. Rejuvenate your collection with the Slipstream Lo Reprise"
+  
+      },
+  
+      { "id": "P10",
+        "img": "images/Puma/Xetic Halflife Disruptive Camo Men Sneakers - 120.webp", 
+        "name": "Xetic Halflife DisruptXive Camo Men Sneakers" , 
+        "price": 120,
+        "brand": "puma",
+        "color": "Black-Parasailing-Green Glare",
+        "description":"Fashion from the year 3000 has just entered the holo-chat. We are at it again, creating the future instead of just predicting it. PUMA XETIC is here to take your style - and comfort - to the next dimension. XETIC Halflife features Calculated Cushioning Technology, an innovation developed by the world's top engineering lab. So not only is XETIC a scientific marvel, it's a fashion blast from the future."
+  
+      },
+
+      { "id": "N01",
+        "img": "images/Nike/Air Jordan 1 Mid 152.webp",
+        "name": "Air Jordan 1 Mid ",
+        "price": 152,
+        "brand": "nike",
+        "color": "Mystic Navy",
+        "description": "Inspired by the original AJ1, the Air Jordan 1 Mid offers fans a chance to follow in MJ's footsteps. Fresh colour trims the clean, classic materials, imbuing modernity into a classic design."
+    },
+
+    {   "id": "N02",
+        "img": "images/Nike/Nike Air Force 107 Craft 152.webp",
+        "name": "Nike Air Fo 107 Craftrce",
+        "price": 152,
+        "brand": "nike",
+        "color": "White",
+        "description": "The radiance lives on in the Nike Air Force 1 '07, the b-ball icon that puts a fresh spin on what you know best: crisp leather, bold colours and the perfect amount of flash to make you shine."
+    },
+
+    {   "id": "N03",
+        "img": "images/Nike/Nike Air Max Pre-Day 165.webp",
+        "name": "Nike Air Max Pre-Day " ,
+        "price": 165,
+        "brand": "nike",
+        "color": "Black",
+        "description": "Taking the classic look of heritage Nike Running into a new realm, the Nike Air Max Pre-Day brings you a fast-paced look that's ready for today's world.A true nod to the past with a design made from at least 20% recycled material by weight, it keeps the retro-athletics aesthetic alive.A new Air window energises the look, mixing head-turning style with unbelievably soft cushioning."
+    },
+
+    {   "id": "N04",
+        "img":  "images/Nike/Nike Air Presto x Hello Kitty 177.webp",
+        "name": "Nike Air Presto x Hello Kitty " ,
+        "price": 177,
+        "brand": "nike",
+        "color": "University Blue",
+        "description": "Let myth become reality and step into a world of rainbows and sunshine with the Nike Air Presto x Hello Kitty. From the custom-moulded Hello Kitty heel to her red bow on the tongue, your favourite super-cute cartoon character joins your journey."
+    },
+
+    {   "id": "N05",
+        "img": "images/Nike/Nike Air Zoom Pegasus 38 132.webp",
+        "name": "Nike Air Zoom Pegasus 38 " ,
+        "price": 132,
+        "brand": "nike",
+        "color": "Black",
+        "description": "Your workhorse with wings returns. The Nike Air Zoom Pegasus 38 continues to put a spring in your step, using the same responsive foam as its predecessor. Breathable mesh in the upper combines the comfort and durability you want with a wider fit at the toes."
+    },
+
+
+    {   "id": "N06",
+        "img": "images/Nike/Nike Blazer Mid 77 Jumbo 139.webp",
+        "name": "Nike Blazer Mid '77 Jumbo  " ,
+        "price": 139,
+        "brand": "nike",
+        "color": " White",
+        "description": "Praised by many for its enduring look and feel, the wardrobe staple hits refresh with the Nike Blazer Mid '77 Jumbo.Harnessing the old-school look you love, it now has an elastic heel with corduroy-like texture and large pull tabs for easy on and off.The oversized Swoosh design and jumbo laces add a fun twist."
+    },
+
+    
+    {   "id": "N07",
+        "img":  "images/Nike/Nike Dunk High Retro SE 152.webp",
+        "name": "Nike Dunk High Retro SE" , 
+        "price": 152,
+        "brand": "nike",
+        "color": "Black",
+        "description": "Go full throttle in the Nike Dunk Low High Retro.It brings motocross-inspired details like bold branding, reflective accents and fresh materials to the wardrobe favourite.Crisp leather, bright panels and flashy details deliver high-octane energy."
+    },
+
+    
+    {   "id": "N08",
+        "img":  "images/Nike/Nike Dunk Low SE 139.webp",
+        "name": "Nike Dunk Low SE " , 
+        "price": 139,
+        "brand": "nike",
+        "color": "",
+        "description": ""
+    },
+
+
+    {   "id": "N09",
+        "img":  "images//Nike/Nike SB Force 58 94.webp",
+        "name": "Nike SB Force 58 " ,
+        "price": 95,
+        "brand": "nike",
+        "color": "Black",
+        "description": "The latest and greatest innovation to hit the streets, the Nike SB Force 58 gives you the durability of a cupsole with the flexibility of a vulcanised shoe.Made from canvas and suede and finished with perforations, the whole look is infused with heritage basketball DNA."
+    },
+
+
+    {   "id": "N10",
+        "img":  "images/Nike/Nike ZoomX Vaporfly Next 2 285.webp",
+        "name": "Nike ZoomX Vaporfly Next% 2 " ,
+        "price": 285,
+        "brand": "nike",
+        "color": "Hyper Violet",
+        "description": "Continue the next evolution of speed with a racing shoe made to help you chase new goals and records.It helps improve comfort and breathability with a redesigned upper.From a 10K to a marathon, this model, like the previous version, has the responsive cushioning and secure support to push you towards your personal best."
+    },
+
+    {   "id": "S01",
+        "img":"images/Skechers/GO WALK Workout Walker - Ultra Motion - 130.jpg",
+        "name": "GO WALK Workout Walker - Ultra Motion",
+        "price": 130,
+        "brand": "skechers",
+        "color": "BLACK ",
+        "description": "Experience long-lasting supportive comfort in Skechers GO WALK Workout Walker - Ultra Motion. This lace-up features a carbon infused design in a breathable mono mesh upper with multicolor underlays, removable Skechers Arch Fit® insole, Hyper Burst® cushioning and a Goodyear® Performance Outsole."
+    },
+
+
+    {   "id": "S02",
+        "img":"images/Skechers/Skechers Arch Fit Akhidime - 95.jpg",
+        "name": "Skechers Arch Fit Akhidime ",
+        "price": 95,
+        "brand": "skechers",
+        "color": "BLACK",
+        "description": "Gear up with long-lasting comfort and support wearing Skechers Arch Fit® Akhidime. This sporty lace-up features a leather, synthetic and mesh upper with a removable Arch Fit® insole and lightweight cushioned midsole."
+    },
+
+
+    
+    {   "id": "S03",
+        "img":"images/Skechers/Skechers Arch Fit Glide-Step - Highlighter - 100.jpg",
+        "name": "Skechers Arch Fit Glide-Step - Highlighter ",
+        "price": 100,
+        "brand": "skechers",
+        "color": "BLACK",
+        "description": "Elevate your steps in surefooted supportive comfort and reliable traction with Skechers Arch Fit® Glide-Step®. This lace-up features an athletic mesh and synthetic upper with a removable Arch Fit® insole, Glide-Step® geometric cushioned midsole and durable Goodyear® Performance Outsole."
+    },
+
+    {   "id": "S04",
+        "img":"images/Skechers/Skechers D'Lites Arch Fit - 95.jpg",
+        "name": "Skechers D'Lites Arch Fit  ",
+        "price": 95,
+        "brand": "skechers",
+        "color": "WHITE",
+        "description": "A stylish favorite combines with all-day supportive comfort in Skechers D'Lites Arch Fit®. This sporty fashion lace-up features a smooth leather, synthetic and mesh upper with a removable Arch Fit® comfort insole."
+    },
+
+    
+    {   "id": "S05",
+        "img":"images/Skechers/Skechers GO RUN Swirl Tech - Breeze - 110.jpg",
+        "name": "Skechers GO RUN Swirl Tech - Breeze  ",
+        "price": 110,
+        "brand": "skechers",
+        "color": "RED",
+        "description": "Advanced running technologies with cooling comfort combine in Skechers GO RUN® Swirl Tech™ - Breeze. This lace-up features a HYPER BURST® midsole fused with Glide-Step® and Skechers Max Cushioning™ in an ultra-lightweight running design"
+    },
+
+     
+    {   "id": "S06",
+        "img":"images/Skechers/Skechers GO WALK Massage Fit - 109.jpg",
+        "name": "Skechers GO WALK Massage Fit  ",
+        "price": 109,
+        "brand": "Skechers",
+        "color": "BLACK",
+        "description": "Enhance your daily walks with waves of comfort wearing Skechers GO WALK Massage Fit™. This innovative design features a lace-up engineered mesh and synthetic upper with an ultra-lightweight, responsive HYPER BURST® cushioned midsole and a supportive comfort insole."
+    },
+
+
+      
+    {   "id": "S07",
+        "img":"images/Skechers/Skechers GO WALK Workout Walker - 125.jpg",
+        "name": "Skechers GO WALK Workout Walker ",
+        "price": 125,
+        "brand": "skechers",
+        "color": "NAVY",
+        "description": "WALKING IS A SPORT™ Enhance your steps with advanced comfort wearing Skechers GO WALK Workout Walker™. This lace-up features a carbon infused design in a leather, mesh and synthetic upper with a removable Skechers Arch Fit® insole, Hyper Burst® cushioning and a Goodyear® Performance Outsole."
+    },
+
+       
+    {   "id": "S08",
+        "img":"images/Skechers/Skechers GOwalk Arch Fit - Orion - 85.jpg",
+        "name": "Skechers GOwalk Arch Fit - Orion  ",
+        "price": 85,
+        "brand": "skechers",
+        "color": "BLACK ",
+        "description": ""
+    },
+
+        
+    {   "id": "S09",
+        "img":"images/Skechers/Skechers Max Cushioning Arch Fit - 115.jpg",
+        "name": "Skechers Max Cushioning Arch Fit  ",
+        "price": 115,
+        "brand": "skechers",
+        "color": "BLACK",
+        "description": "Maximize your workouts in all-day cushioned comfort with Skechers Max Cushioning Arch Fit®. This athletic lace-up features an engineered mesh upper with removable Arch Fit® insole and a lightweight ULTRA GO® cushioned midsole."
+    },
+
+
+    {   "id": "S10",
+        "img":"images/Skechers/Skechers Max Cushioning Elite - Amplifier - 100.jpg",
+        "name": "Skechers Max Cushioning Elite - Amplifier ",
+        "price": 100,
+        "brand": "skechers",
+        "color": "BLACK",
+        "description": "Dial up the cushioned comfort during any physical activity with the Skechers Max Cushioning Elite™ - Amplifier shoe. This running and walking sneaker features a soft breathable mesh knit upper with a Stretch Fit slip-on design and ULTRA GO cushioned platform."
+    },
+
+
+    {   "id": "S11",
+        "img":"images/Skechers/Skechers Max Cushioning Premier - Endeavour - 100.jpg",
+        "name": "Skechers Max Cushioning Premier - Endeavour  ",
+        "price": 100,
+        "brand": "skechers",
+        "color": "BLACK",
+        "description": "Add more cushioned comfort and response to your walk and run with the Skechers Max Cushioning Premier™ - Endeavour. This comfortable sneaker features a breathable mesh upper with an ULTRA GO cushioned platform and Air-Cooled Goga Mat™ insole."
+    }
+]
