@@ -17,3 +17,9 @@
   margin-left: 35px;
   list-style-type: none;
 }
+@media only screen and (max-width: 900px) 
+{
+  .infoarea2{
+    margin-left: 0;
+  }
+}
