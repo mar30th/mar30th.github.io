@@ -79,7 +79,7 @@
             <div class="page-header mb-3">
                 <h1>SHIPPING ADDRESS</h1>
             </div>
-            <form action="#">
+            <form action="index.html" onsubmit="return reviewAndPay()">
                 <div class="row pb-2">
                     <div class="form-floating w-50">
                         <input type="text" class="form-control" id="floatingInput" placeholder="First Name" required>
@@ -131,11 +131,6 @@
                         </label>
                     </div>
                   </div>
-
-
-
-
-
             <button class="btn btn-lg btn-dark" type="submit">REVIEW AND PAY</button>
             </form>
         </div>
@@ -213,5 +208,10 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="js/default.js"></script>
   <script src="js/product_detail.js"></script>
+    <script>
+    function reviewAndPay(){
+      alert ("Purchase successfully" + "\n" + "Your order is now being prepared")
+    }
+  </script>
 </body>
 </html>
