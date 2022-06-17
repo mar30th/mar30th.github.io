@@ -22,8 +22,9 @@
               $(".comparePan").append('<div id="' + productID + '" class="relPos titleMargin w3-margin-bottom ps-5 col-lg-3 col-md-4 col-sm-4"><div class="w3-white titleMargin"><a class="selectedItemCloseBtn w3-closebtn cursor">&times</a><img src="' + image + '" alt="image" style="max-height:100px;max-width=100px"/><p id="' + productID + '" class="titleMargin1">' + displayName + '</p></div></div>');
           }
           else {
+              alert("Maximum of Three products are allowed for comparision");
               $("#WarningModal").modal();
-
+              
               $(this).toggleClass("rotateBtn");
               $(this).parents(".divImage").toggleClass("selected");
               return;
