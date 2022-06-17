@@ -190,8 +190,7 @@ function addCart (img, name, price) {
   shoppingCart.addItemToCart(img, name, price, 1);
   displayCart();
   var sizeProduct = sessionStorage.getItem("sizeItem")
-  alert("Product added to cart successfully!");
-  window.location = 'stellar_product.html'
+  window.location = 'stellar_cart.html'
 }
 
 // Clear items
